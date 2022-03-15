@@ -4,7 +4,7 @@ Advanced Java course final assignment. Topics covered in this course and represe
 - Unit testing
 - Exception handling
 - Streams and Lambda
-- try-with-resoureces
+- try-with-resources
 - Reading and writing of: JSON, XML, CSV files
 - Enums and Annotations
 - Java :: operator
